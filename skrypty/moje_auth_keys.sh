@@ -1,5 +1,5 @@
 #!/bin/bash
-#Autor: Bolesłąw Walędziak
+#Autor: Bolesław Walędziak
 
 plik=~/.ssh/authorized_keys
 if ! [ -f "$plik" ]; then
