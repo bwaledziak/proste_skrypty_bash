@@ -1,6 +1,5 @@
 #!/bin/bash
-
-set -eu
+#Autor: Bolesław Walędziak
 
 echo -n "Ile plików chcesz utworzyć?: "
 read ile
