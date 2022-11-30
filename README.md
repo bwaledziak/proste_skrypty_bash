@@ -13,3 +13,6 @@ Odlicza czas podany w sekundach jako parametr wywołania skryptu
 
 ## pogoda.sh
 Wyświetla aktualne informacje o pogodzie w największych miastach Polski korzystając z danych z serwisu wttr.in
+
+## lotto.sh
+Symuluje losowanie Lotto. Podaje 6 losowych liczb z zakresu 1-49, upewnia się że się nie dublują.
