@@ -10,3 +10,6 @@ Wyswietla informaje o liczbie i nazwach kluczy SSH umozliwiajacych logowanie na 
 
 ## timer.sh
 Odlicza czas podany w sekundach jako parametr wywołania skryptu
+
+## pogoda.sh
+Wyświetla aktualne informacje o pogodzie w największych miastach Polski korzystając z danych z serwisu wttr.in
