@@ -7,3 +7,6 @@ Tworzy wskazaną liczbę plików o kolejnych numerach
 
 ## my auth keys.sh
 Wyswietla informaje o liczbie i nazwach kluczy SSH umozliwiajacych logowanie na dane konto
+
+## timer.sh
+Odlicza czas podany w sekundach jako parametr wywołania skryptu
