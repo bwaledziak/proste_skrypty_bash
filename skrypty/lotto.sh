@@ -1,7 +1,7 @@
 #!/bin/bash
 # Autor: Bolesław Walędziak
 
-echo "Wyniki losowania:"
+echo "Wyniki losowania symulatora Lotto:"
 
 for (( i=0; i<=5; i++ )); do
     
