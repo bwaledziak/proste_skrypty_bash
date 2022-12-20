@@ -2,6 +2,11 @@
 Różne proste skrypty, które tworzylem w ramach nauki skryptowania w bashu. 
 Wszystkie skrypty znajduja się w podkatalogu.
 
+## generator statystyk serwera stats_gen
+Generuje podstawowe statystyki serwera. Uruchamiany przez crona moze przekierowac wyjscie do pliku, 
+ktory mozna uzyc jako logi systemowe albo jako zrodlo tresci do prostej strony www.
+Wykorzystuje go do generowania co pol godziny statystyk na stronę cloudtesting.net.pl
+
 ## tworzenie plikow.sh
 Tworzy wskazaną liczbę plików o kolejnych numerach
 
